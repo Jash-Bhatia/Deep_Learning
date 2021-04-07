@@ -1,0 +1,22 @@
+Q1-True: As 3 metrics will make it harder and also more time -consuming.
+ Q2  - 2: It's priority is Acc->Run time(<10sec)->Space(<10MB) which clearly No.2 Option follows easily.
+ Q3  - 3: As satisfying metric is Threshold so Time & Memory where
+	  Acc is optimizing metric as it has to be as high as possible.
+ Q4  - 2: As for Data > 1 Million train is 99/95% and Dev/test is 0.5% each or 2.5% each 
+ Q5-False: as adding this data will make data more wider and capture more unique pictures of sky 
+           thus increasing performance on Real-Life Data.
+ Q6  - 2: As variability is explained by Train Data and model is fitted on it & not on test Data.
+ Q7  - 2: yes, Dev and Test are mostly same to evaluate their performance.
+ Q8  - 4: because for bias we need to know Bayes/Human level error and hence can't say which is right or which is wrong.
+ Q9  - 2: 0.3% as it is lowest and the best human-level error one can get.
+ Q10 - 1: See the graph in Sir's Lecture Notes.
+ Q11 - 1: As it is high bias and hence it eliminates it we do= bigger network, train longer or 
+          make a new ANN architecture and in high variance we add regularisation so here decrease regularisation.
+ Q12 - 1: Train a bigger model to try to do better on the training set; the reason is stated above.
+Q13 - 1: As great diff between test and dev set so it is overfitting so You should try to get greater development set.
+Q14 - 2: You had to over fit to dev set.
+Q15 - 2: It is possible to surpass human-level performance & hence ML is used.
+ Q16 - 2: Correct & Natural Answer
+ Q17 - 4: New Image so new model will be needed.
+Q18 - 1: Putting it in test/Dev will not help and model is fitted on train so need to put it there only.
+Q19 - 1: As Acc should not decrease but FN should be considering so 3.
