@@ -4,7 +4,7 @@ Hey guys!!!!!!!!
 
 Welcome to our Bird Classifier App
 
-Ever looked at a bird and wondered what id that? Well now you have our Bird classifier app. 
+Ever looked at a bird and wondered what is that? Well now you have our Bird classifier app. 
 
 
 Open our App
